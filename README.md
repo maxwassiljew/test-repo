@@ -1,3 +1,4 @@
 # test-repo
 
-1. 
+1.
+2. without -S on git commit 
